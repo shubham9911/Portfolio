@@ -1,0 +1,30 @@
+body{
+    /* margin-left: 25%; */
+}
+
+.skills{
+    margin-top: 35%;
+    margin-left: 25%;
+    color: black;
+}
+
+.skills h1{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.skills_heading{
+   color: black;
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom: 40px;
+}
+
+.skills_info i{
+    color: black;
+    margin-top: 20px;
+    margin-left: 37%;
+    padding: 20px;
+    font-size: 50px;     
+    /* to style react icons we have to wrap them in <i></i> */
+}

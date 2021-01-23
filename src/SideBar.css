@@ -1,0 +1,87 @@
+.side_bar{
+    height: 100%; /* Full-height: remove this if you want "auto" height */
+    width: 20%; /* Set the width of the sidebar */
+    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: #111; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.my_pic2{
+    width: 150px;
+    
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    padding: auto;
+    margin-top: 50px;
+}
+
+.side_bar_H1{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.side_bar_data{
+    color: white;
+    text-align: center;
+}
+
+.side_bar_data p{
+    font-size: 12px;
+    color: white;
+}
+
+.side_bar_data p:hover{
+    color: aquamarine;
+}
+
+.email{
+    cursor: pointer;
+}
+
+.side_bar_btn button{
+    display: block;
+    margin: auto;
+    padding: auto;
+    background-color: rgb(17, 17, 17);
+    color: white;
+    border: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 70%;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: Lucida Console, Courier, monospace;
+}
+
+.side_bar_btn button:hover{
+    color: aquamarine;
+    font-size: 20px;
+    text-decoration: underline;
+    
+}
+
+.side_bar_btn{
+    margin: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.social_icons i{
+    font-size: 30px;
+    margin: 10px;
+    margin-top: 30px;
+    cursor: pointer;
+    color: white;
+}
+
+.social_icons i:hover{
+    font-size: 35px;
+    color: aquamarine;
+}

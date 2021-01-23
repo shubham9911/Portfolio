@@ -1,0 +1,18 @@
+.projects{
+    margin-left: 25%;
+    color: black;
+}
+
+.project_cards{
+    margin-left: 3%;
+}
+
+.card{
+    margin-top: 60px;
+}
+
+.card i{
+    font-size: 40px;
+    margin-left: 45%;
+    cursor: pointer;
+}

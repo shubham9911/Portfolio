@@ -1,0 +1,32 @@
+.Intro{
+   font-size: 50px;
+    margin-left: 25%;
+    font-size: 40px;
+    margin-top: 20%;
+    margin-bottom: 30%;
+    /* font-family: Lucida Console, Courier, monospace; */
+}
+body{
+    
+    background-image: url(my_pic1.jpg); 
+    background-position: right top;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    
+}
+.Intro_data{
+    color: black;
+    
+}
+
+.Intro_data button{
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 10px;
+    border-radius: 2px;
+    border-width: 1px;
+    background-color: black;
+    color: white;
+    border-color: black;
+}
+
